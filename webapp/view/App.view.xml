@@ -66,14 +66,14 @@
                     </content>
 
                  <footer>
-                 
-			<OverflowToolbar>
-            
-				<Link
+                <Toolbar>
+                <ToolbarSpacer/>
+            				<Link
 				text="Explore the IMDb "
 				target="_blank"
 				href="http://www.imdb.com" />
-			</OverflowToolbar>
+                <ToolbarSpacer/>
+			</Toolbar>
             
 		</footer>
                 </Page>
